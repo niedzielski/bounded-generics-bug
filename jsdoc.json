@@ -1,0 +1,13 @@
+{
+	"opts": {
+		"pedantic": true,
+		"template": "node_modules/jsdoc-wmf-theme"
+	},
+	"source": {
+		"include": [ "." ]
+	},
+	"tags": {
+		"allowUnknownTags": false,
+		"dictionaries": [ "jsdoc", "closure" ]
+	}
+}

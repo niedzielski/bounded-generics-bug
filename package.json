@@ -1,0 +1,15 @@
+{
+  "name": "bounded-generics-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jsdoc -c jsdoc.json"
+  },
+  "author": "Stephen Niedzielski <stephen@niedzielski.com> (niedzielski.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdoc": "3.6.4",
+    "jsdoc-wmf-theme": "0.0.3"
+  }
+}
